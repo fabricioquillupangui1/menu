@@ -9,3 +9,10 @@ Instrucciones:
 2. Crea un diseño CSS moderno, minimalista y oscuro (estilo glassmorphism), con tarjetas interactivas y totalmente responsivo.
 3. Añade en el diseño el nombre del autor (Fabricio Quillupangui) y una breve descripción indicando que este menú contiene todos los proyectos desarrollados en el curso de desarrollo de software.
 4. Separa estrictamente el código en dos archivos: index.html y menu.css.
+
+Prompt 2
+
+Actua como un profesional en diseño grafico necesito que hagas las siguientes modificaciones:
+1. Cambiar el diseño del logo de circular a cuadrado con bordes redondeados modernos.
+2. Añadir una pequeña descripción detallada debajo del título de cada tarjeta de proyecto (Juego Limones, Juego Cazando y Buscador de Internet/Google).
+3. Asegurar que todo el contenedor principal esté perfectamente centrado en la pantalla (margin: auto y flexbox alignment).

@@ -1,0 +1,11 @@
+Prompt Inicial
+Actúa como un programador experto en diseño y desarrollo web. 
+Necesito que mejores el siguiente código HTML plano que contiene enlaces a mis proyectos de programación:
+
+[Archivos index.html y menu.css]
+
+Instrucciones:
+1. Utiliza la imagen adjunta (logo de Krakedev) como logotipo principal de la página.
+2. Crea un diseño CSS moderno, minimalista y oscuro (estilo glassmorphism), con tarjetas interactivas y totalmente responsivo.
+3. Añade en el diseño el nombre del autor (Fabricio Quillupangui) y una breve descripción indicando que este menú contiene todos los proyectos desarrollados en el curso de desarrollo de software.
+4. Separa estrictamente el código en dos archivos: index.html y menu.css.

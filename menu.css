@@ -1,6 +1,6 @@
 :root {
     --bg-color: #0b0f19;
-    --card-bg: rgba(17, 24, 39, 0.7);
+    --card-bg: rgba(17, 24, 39, 0.75);
     --card-border: rgba(255, 255, 255, 0.08);
     --primary: #ef4444;
     --primary-hover: #dc2626;
@@ -56,7 +56,7 @@ body::after {
 
 .container {
     width: 100%;
-    max-width: 480px;
+    max-width: 520px;
     background: var(--card-bg);
     border: 1px solid var(--card-border);
     backdrop-filter: blur(16px);
@@ -105,14 +105,37 @@ h1 {
     font-size: 24px;
     font-weight: 800;
     letter-spacing: -0.5px;
-    margin-bottom: 6px;
+    margin-bottom: 4px;
     color: #fff;
 }
 
 .subtitle {
     font-size: 14px;
     color: var(--text-muted);
-    margin-bottom: 32px;
+    margin-bottom: 18px;
+}
+
+.autor-badge {
+    background: rgba(239, 68, 68, 0.1);
+    border: 1px solid rgba(239, 68, 68, 0.2);
+    padding: 8px 12px;
+    border-radius: 12px;
+    font-size: 13px;
+    color: #fca5a5;
+    margin-bottom: 16px;
+    display: inline-block;
+}
+
+.autor-badge strong {
+    color: #fff;
+}
+
+.descripcion-curso {
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--text-muted);
+    margin-bottom: 28px;
+    padding: 0 10px;
 }
 
 .links-stack {
